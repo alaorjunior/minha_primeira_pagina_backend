@@ -1,0 +1,61 @@
+/*---------Seção de Tags---------*/
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: aqua;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: blueviolet;
+    box-shadow: 0 5px 0 5px rgb(236, 233, 233);
+   
+}
+
+h2 {
+    color: blueviolet;
+    border: 5px solid yellow;
+    border-radius: 20px;
+    background-color: rgb(238, 179, 179);
+}
+
+h3 {
+    color: brown;
+    border: 5px solid blue;
+    border-radius: 20px;
+    background-color: rgb(182, 202, 240);
+}
+
+h4 {
+    color: chartreuse;
+    border: 5px solid pink;
+    border-radius: 20px;
+    background-color: pink;
+}
+h5 {
+    color: red;
+}
+
+h6 {
+    color: green;
+}
+
+
+/*-------Seção de Classes-----*/
+
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+
+/*-------Seção de IDS--------*/
+
+
