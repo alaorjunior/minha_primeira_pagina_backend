@@ -45,11 +45,20 @@ h5 {
 h6 {
     color: green;
 }
+a {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 30px;
+}
 
 
 /*-------Seção de Classes-----*/
 
 
+.logo {
+    width: 100px;
+    height: 100px;
+}
 
 
 
